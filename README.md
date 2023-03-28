@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4D1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/Z4D1/Z4D1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Z4D1/Z4D1/blob/output/github-contribution-grid-snake.svg)
